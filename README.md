@@ -1,11 +1,3 @@
-# BusinessGPT 📊
-
-### Built in a couple of days as seen on my channel!
-
-[![](https://i.imgur.com/ubCqiTm.png)](https://www.youtube.com/watch?v=nrC07M2XV1I)
-
-#### [💬 Join the Discord! 💬](https://discord.gg/VQ5t86TEuA)
-
 ### Description 🗄️
 
 Using GPT-4, create a business plan for your next startup! See if it's a good idea or not!
